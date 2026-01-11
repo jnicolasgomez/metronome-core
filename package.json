@@ -1,6 +1,6 @@
 {
   "name": "@jnicolasgomez/metronome-core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Precise Web Audio API metronome with lookahead scheduling. Framework-agnostic core with Vue 3 composable wrapper.",
   "keywords": [
     "metronome",
