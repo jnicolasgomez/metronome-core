@@ -11,6 +11,10 @@ Precise Web Audio API metronome with lookahead scheduling. Framework-agnostic co
 - **BPM range** - 30 to 300 BPM
 - **Pause/resume** - seamless timing preservation
 
+## Demo
+
+Try the metronome live: [randomchords.vercel.app](https://randomchords.vercel.app/#/)
+
 ## Installation
 
 ```bash
