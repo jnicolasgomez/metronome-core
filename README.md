@@ -1,4 +1,4 @@
-# @nicogomez/metronome-core
+# @jnicolasgomez/metronome-core
 
 Precise Web Audio API metronome with lookahead scheduling. Framework-agnostic core with Vue 3 composable wrapper.
 
@@ -18,7 +18,7 @@ Try the metronome live: [randomchords.vercel.app](https://randomchords.vercel.ap
 ## Installation
 
 ```bash
-npm install @nicogomez/metronome-core
+npm install @jnicolasgomez/metronome-core
 ```
 
 ## Usage
