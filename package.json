@@ -19,7 +19,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nicolasgomez/metronome-core"
+    "url": "https://github.com/jnicolasgomez/metronome-core"
   },
   "type": "module",
   "main": "./dist/index.cjs",
