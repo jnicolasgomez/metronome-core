@@ -1,4 +1,4 @@
-# @jnicolasgomez/metronome-core
+# @metronome-core
 
 Precise Web Audio API metronome with lookahead scheduling. Framework-agnostic core with Vue 3 composable wrapper.
 
