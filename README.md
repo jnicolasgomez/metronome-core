@@ -2,7 +2,7 @@
 
 Precise Web Audio API metronome with lookahead scheduling. Framework-agnostic core with Vue 3 composable wrapper.
 
-![NPM Downloads](https://img.shields.io/npm/dw/%40jnicolasgomez%2Fmetronome-core) ![NPM Last Update](https://img.shields.io/npm/last-update/%40jnicolasgomez%2Fmetronome-core)
+![NPM Downloads](https://img.shields.io/npm/dw/metronome-core) ![NPM Last Update](https://img.shields.io/npm/last-update/metronome-core)
 
 [NPM Package](https://www.npmjs.com/package/metronome-core)
 
