@@ -4,7 +4,7 @@ Precise Web Audio API metronome with lookahead scheduling. Framework-agnostic co
 
 ![NPM Downloads](https://img.shields.io/npm/dw/%40jnicolasgomez%2Fmetronome-core) ![NPM Last Update](https://img.shields.io/npm/last-update/%40jnicolasgomez%2Fmetronome-core)
 
-
+[NPM Package](https://www.npmjs.com/package/metronome-core)
 
 
 ## Features
